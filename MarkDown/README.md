@@ -283,12 +283,169 @@ __볼드체(언더라인)__
 
 ****
 
+## 2.9 Chart(표)
+
+표를 만들기 위해선 다음과 같은 형식을 유지한채 계속 이러서 해주면 된다.
+
+표를 만들기 위한 가장 큰 핵심은 두번째 줄이다.
+
+```
+| 내 | 맘 | 대 | 로 |
+|-|-|-|-|
+| 모 | 양 | 도 |  |
+| 내 | 맘 | 대 | 로 |
+```
+
+| 내 | 맘 | 대 | 로 |
+|-|-|-|-|
+| 모 | 양 | 도 |  |
+| 내 | 맘 | 대 | 로 |
+
 # 3. Markdown Extenstion(확장)
-## 3.1. Emoji
 
-종류
+## 3.1 [Badge Icon](https://shields.io/)
+## 3.1.1 Usage
+LABEL, MESSAGE, COLOR에 적절한 파라미터를 입력해주면 뱃지를 만들 수 있다.
 
-People
+```
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+```
+
+예를 들면
+```
+https://img.shields.io/badge/github-GIVEME--STAR-yello
+```
+
+![](https://img.shields.io/badge/github-star-yellow)
+
+###### LABEL, MESSAGE에서 밑줄, 대시, 공백을 쓰고 싶으면 이렇게 __, --, _ 를 쓰면 된다.
+
+## 3.1.2 Style
+
+```
+https://img.shields.io/badge/style-plastic-red?style=plastic
+https://img.shields.io/badge/style-flat-red?style=flat
+https://img.shields.io/badge/style-square-red?style=flat-square
+https://img.shields.io/badge/style-forthebage-red?style=for-the-badge
+https://img.shields.io/badge/style-social-red?style=social
+```
+
+![](https://img.shields.io/badge/style-plastic-yellow?style=plastic)
+![](https://img.shields.io/badge/style-flat-yellow?style=flat)
+![](https://img.shields.io/badge/style-square-yellow?style=flat-square)
+![](https://img.shields.io/badge/style-forthebage-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/style-social-yellow?style=social)
+
+## 3.1.3 Logo
+
+```
+https://img.shields.io/badge/logo-test-blue?logo=facebook
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40
+```
+
+![](https://img.shields.io/badge/logo-test-blue?logo=facebook)
+![](https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white)
+![](https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40)
+
+Logo의 경우엔  [**이곳**](https://simpleicons.org/, "https://simpleicons.org/")에서의 Logo 종류를 전부 사용 가능하다고 한다.
+
+그럼 내가 사랑하는 Airbnb도 해볼까?
+
+![](https://img.shields.io/badge/logo-Airbnb-pink?logo=airbnb&logoColor=white)
+
+하지만 일반적으로 자기가 사용한 Langague Icon를 사용하니.
+
+![](https://img.shields.io/badge/logo-Node.js-green?logo=Node.js&logoColor=white)
+
+## 3.1.4 Your GitHub Repository Stack
+
+사용법은 다음과 같다.
+
+```
+https://img.shields.io/github/languages/count/{GithubName}/{ProjectName}
+```
+
+```
+GitHub 사용 언어 수
+https://img.shields.io/github/languages/count/Mineru98/AutoBench
+GitHub 최다빈도 언어
+https://img.shields.io/github/languages/top/Mineru98/AutoBench
+GitHub 코드 용량
+https://img.shields.io/github/languages/Mineru98/AutoBench
+GitHub 용량
+https://img.shields.io/github/repo-size/Mineru98/AutoBench
+GitHub 오픈 이슈 개수
+https://img.shields.io/github/issues/Mineru98/AutoBench
+GitHub 닫힌 이슈 개수
+https://img.shields.io/github/issues-closed/Mineru98/AutoBench
+GitHub 주간 커밋 수
+https://img.shields.io/github/commit-activity/w/Mineru98/AutoBench
+GitHub 라스트 커밋 날짜
+https://img.shields.io/github/last-commit/Mineru98/AutoBench
+```
+
+![](https://img.shields.io/github/languages/count/Mineru98/AutoBench)
+![](https://img.shields.io/github/languages/top/Mineru98/AutoBench)
+![](https://img.shields.io/github/languages/code-size/Mineru98/AutoBench)
+![](https://img.shields.io/github/repo-size/Mineru98/AutoBench)
+![](https://img.shields.io/github/issues/Mineru98/AutoBench)
+![](https://img.shields.io/github/issues-closed/Mineru98/AutoBench)
+![](https://img.shields.io/github/commit-activity/w/Mineru98/AutoBench)
+![](https://img.shields.io/github/last-commit/Mineru98/AutoBench)
+
+Writing...
+
+## 3.1.5 Build
+
+## 3.1.6 Code Coverage
+
+## 3.1.7 Analysis
+
+## 3.1.8 Chat
+
+## 3.1.9 Dependencies
+
+## 3.1.10 Size
+
+## 3.1.11 Downloads
+
+## 3.1.12 Funding
+
+## 3.1.13 Issue Tracking
+
+## 3.1.14 License
+
+## 3.1.15 Rating
+
+## 3.1.16 Social
+
+## 3.1.17 Version
+
+## 3.1.18 Platform & Version Support
+
+## 3.1.19 Monitoring
+
+## 3.1.20 Activity
+
+## 3.1.21 Other
+
+## 3.2. Commit & Description & Profile & ReadME.md (Emoji with GitHub)
+
+Github에서 커밋을 할 때 다음과 같이 써주면
+```
+git commit -m ":seedling: Write about setting github markdown icon"
+```
+
+이런식으로 commit list에 결과가 나온다.
+
+> :seedling: __Write about setting github markdown icon__
+
+>__mineru98__ committied a minute ago :heavy_check_mark:
+
+Description, ReadME, Profile 모두 마찬가지로 작동한다.
+
+#### People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -357,7 +514,7 @@ People
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-Nature
+#### Nature
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -400,7 +557,7 @@ Nature
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-Objects
+#### Objects
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -491,7 +648,7 @@ Objects
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-Places
+#### Places
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -531,7 +688,7 @@ Places
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-Symbols
+#### Symbols
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
@@ -605,3 +762,4 @@ Symbols
 * [John gruber 마크다운 번역본](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
 * [깃허브 취향의 마크다운 번역](http://nolboo.github.io/blog/2014/03/25/github-flavored-markdown/)
 * [허니몬의 마크다운 작성법](http://www.slideshare.net/ihoneymon/ss-40575068)
+* [Github Emoji 소스](https://gist.github.com/rxaviers/7360908)
