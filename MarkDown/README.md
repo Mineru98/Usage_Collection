@@ -348,7 +348,7 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWi
 ![](https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white)
 ![](https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40)
 
-Logo의 경우엔  [**이곳**](https://simpleicons.org/, "https://simpleicons.org/")에서의 Logo 종류를 전부 사용 가능하다고 한다.
+Logo의 경우엔  [**이곳**](https://simpleicons.org/ "https://simpleicons.org/")에서의 Logo 종류를 전부 사용 가능하다고 한다.
 
 그럼 내가 사랑하는 Airbnb도 해볼까?
 
@@ -393,42 +393,6 @@ https://img.shields.io/github/last-commit/Mineru98/AutoBench
 ![](https://img.shields.io/github/issues-closed/Mineru98/AutoBench)
 ![](https://img.shields.io/github/commit-activity/w/Mineru98/AutoBench)
 ![](https://img.shields.io/github/last-commit/Mineru98/AutoBench)
-
-Writing...
-
-## 3.1.5 Build
-
-## 3.1.6 Code Coverage
-
-## 3.1.7 Analysis
-
-## 3.1.8 Chat
-
-## 3.1.9 Dependencies
-
-## 3.1.10 Size
-
-## 3.1.11 Downloads
-
-## 3.1.12 Funding
-
-## 3.1.13 Issue Tracking
-
-## 3.1.14 License
-
-## 3.1.15 Rating
-
-## 3.1.16 Social
-
-## 3.1.17 Version
-
-## 3.1.18 Platform & Version Support
-
-## 3.1.19 Monitoring
-
-## 3.1.20 Activity
-
-## 3.1.21 Other
 
 ## 3.2. Commit & Description & Profile & ReadME.md (Emoji with GitHub)
 
