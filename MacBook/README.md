@@ -20,12 +20,15 @@
 ### 한영 전환 단축키 변경
 
 **시스템 환경설정 > 키보드**
+
 ![그림1](https://github.com/Mineru98/Usage_Collection/blob/master/MacBook/img/screen_shot1.png)
 
 **시스템 환경설정 > 키보드 > 단축키 탭**
+
 ![그림2](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot2.png)
 
 **시스템 환경설정 > 키보드 > 단축키 탭 > 입력소스 > 이전 입력 소스 선택**
+
 ![그림3](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot3.png)
 
 [이전 입력 소스 선택] 에 있는 현재 단축키 부분을 더블클릭 하고 원하는 단축키 조합으로 변경하면 됩니다.
