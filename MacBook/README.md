@@ -20,13 +20,13 @@
 ### 한영 전환 단축키 변경
 
 **시스템 환경설정 > 키보드**
-![그림1](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot1.png)
+![그림1](https://github.com/Mineru98/Usage_Collection/blob/master/MacBook/img/screen_shot1.png)
 
 **시스템 환경설정 > 키보드 > 단축키 탭**
-![그림2](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot2.png)
+![그림2](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot2.png)
 
 **시스템 환경설정 > 키보드 > 단축키 탭 > 입력소스 > 이전 입력 소스 선택**
-![그림3](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot3.png)
+![그림3](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot3.png)
 
 [이전 입력 소스 선택] 에 있는 현재 단축키 부분을 더블클릭 하고 원하는 단축키 조합으로 변경하면 됩니다.
 
@@ -40,25 +40,25 @@ OS X의 고스트 이미지 라고 할 수 있다.
  - Mac 저널링으로 Format 된 외부 저장장치
 
 
-![그림4](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot4.png)
+![그림4](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot4.png)
 
 [디스크 선택]을 눌러 원하는 저장 장치를 지정해 주고 [디스크 사용]을 눌러주면 설정 끝!
 
-![그림5](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot5.png)
+![그림5](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot5.png)
 
-![그림6](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot6.png)
+![그림6](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot6.png)
 
 백업에서 제외 할 디스크는 위 그림과 같이 설정을 해주면 된다.
 
 #### 복원
 
-![그림7](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot7.png)
+![그림7](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot7.png)
 
 복원을 할 때에는 TimeMachine App을 실행 해주면 된다.
 
 그러면 다음 그림과 같이 과거의 백업 이력들이 보이게 되고 원하는 지점을 선택 해주면 된다.
 
-![그림8](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot8.png)
+![그림8](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot8.png)
 
 복원을 하고 나면 폴더트리, 시스템 환경설정값, 설치한 App 등이 모두 동일하게 변경된다.
 
@@ -72,13 +72,13 @@ OS X의 고스트 이미지 라고 할 수 있다.
 
 여기서 사진 파일을 지정하면 된다. 다른 폴더에서도 가져올 수 있다.
 
-![그림9](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot9.png)
+![그림9](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot9.png)
 
 ### 트랙패드 설정
 
 **시스템 환경설정 > 손쉬운 사용 > 마우스와 트랙패드 > 트랙패드 옵션**
 
-![그림10](https://github.com/Mineru98/usage_collection/MacBook/img/screen_shot10.png)
+![그림10](https://github.com/Mineru98/usage_collection/blob/master/MacBook/img/screen_shot10.png)
 
 드래그 활성화를 체크해주고, 세 손가락으로 드래그하기를 선택해주면 황성화가 된다.
 
