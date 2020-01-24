@@ -43,3 +43,9 @@ git add {file}
 ```
 git reset HEAD {file}
 ```
+
+## Code Commit Message Edit - [코드 기록 수정]
+
+```
+git commit --amend
+```
