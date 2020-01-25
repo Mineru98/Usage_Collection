@@ -50,6 +50,12 @@ sudo docker attach [NAMES or CONTAINER ID]
 // exit나 ctrl + d를 입력하면 컨테이너를 정지하면서 빠져나옴.
 ```
 
+## 컨테이너 프로세스 호출
+
+```shell
+sudo docker exec [NAMES] [COMMAND]
+```
+
 ## Error
 
 ```shell
