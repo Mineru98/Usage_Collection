@@ -91,10 +91,11 @@ git checkout {branch name}
 git branch -d {branch name}
 
 // Drop Remote Branch
-1) git branch -d {branch name}
-git push {remote name} {branch name}
+1) git push origin --delete {branch}
 
-2) git push {remote name} :{branch name}
+
+2) git branch -d {branch}
+   git push origin {branch}
 ```
 
 ## Check Commit Info - [커및 정보 보기]
